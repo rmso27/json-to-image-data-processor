@@ -1,0 +1,241 @@
+{
+    "Games": [
+        {
+            "Id": 1,
+            "Name": "Grand Theft Auto",
+            "Year": 1997,
+            "Producer": "DMA Design",
+            "Platforms": [
+                "PC",
+                "PlayStation"
+            ],
+            "IGN": "6.0/10",
+            "Copies sold": "1.5 million",
+            "Cost": "$1.5 million",
+            "Revenue": "$3 million"
+        },
+        {
+            "Id": 2,
+            "Name": "Grand Theft Auto: London 1969",
+            "Year": 1999,
+            "Producer": "DMA Design",
+            "Platforms": [
+                "PC",
+                "PlayStation"
+            ],
+            "IGN": "7.5/10",
+            "Copies sold": "1 million",
+            "Cost": "$1 million",
+            "Revenue": "$3 million"
+        },
+        {
+            "Id": 3,
+            "Name": "Grand Theft Auto: London 1961",
+            "Year": 1999,
+            "Producer": "DMA Design",
+            "Platforms": [
+                "PC"
+            ],
+            "IGN": "7.0/10",
+            "Copies sold": "0.5 million",
+            "Cost": "$0.5 million",
+            "Revenue": "$1 million"
+        },
+        {
+            "Id": 4,
+            "Name": "Grand Theft Auto 2",
+            "Year": 1999,
+            "Producer": "DMA Design",
+            "Platforms": [
+                "PC",
+                "PlayStation",
+                "Game Boy Color",
+                "Dreamcast"
+            ],
+            "IGN": "6.8/10",
+            "Copies sold": "2 million",
+            "Cost": "$3 million",
+            "Revenue": "$5 million"
+        },
+        {
+            "Id": 5,
+            "Name": "Grand Theft Auto Advance",
+            "Year": 2004,
+            "Producer": "Rockstar Games",
+            "Platforms": [
+                "Game Boy Advance"
+            ],
+            "IGN": "7.0/10",
+            "Copies sold": "0.5 million",
+            "Cost": "$1 million",
+            "Revenue": "$2 million"
+        },
+        {
+            "Id": 6,
+            "Name": "Grand Theft Auto III",
+            "Year": 2001,
+            "Producer": "Rockstar Games",
+            "Platforms": [
+                "PC",
+                "PlayStation 2",
+                "Xbox"
+            ],
+            "IGN": "9.6/10",
+            "Copies sold": "14.5 million",
+            "Cost": "$5 million",
+            "Revenue": "$60 million"
+        },
+        {
+            "Id": 7,
+            "Name": "Grand Theft Auto: Vice City",
+            "Year": 2002,
+            "Producer": "Rockstar Games",
+            "Platforms": [
+                "PC",
+                "PlayStation 2",
+                "Xbox"
+            ],
+            "IGN": "9.7/10",
+            "Copies sold": "17.5 million",
+            "Cost": "$5 million",
+            "Revenue": "$80 million"
+        },
+        {
+            "Id": 8,
+            "Name": "Grand Theft Auto: San Andreas",
+            "Year": 2004,
+            "Producer": "Rockstar Games",
+            "Platforms": [
+                "PC",
+                "PlayStation 2",
+                "Xbox"
+            ],
+            "IGN": "9.9/10",
+            "Copies sold": "27.5 million",
+            "Cost": "$10 million",
+            "Revenue": "$125 million"
+        },
+        {
+            "Id": 9,
+            "Name": "Grand Theft Auto: Liberty City Stories",
+            "Year": 2005,
+            "Producer": "Rockstar Leeds",
+            "Platforms": [
+                "PlayStation Portable",
+                "PlayStation 2"
+            ],
+            "IGN": "8.6/10",
+            "Copies sold": "8 million",
+            "Cost": "$2 million",
+            "Revenue": "$50 million"
+        },
+        {
+            "Id": 10,
+            "Name": "Grand Theft Auto: Vice City Stories",
+            "Year": 2006,
+            "Producer": "Rockstar Leeds",
+            "Platforms": [
+                "PlayStation Portable",
+                "PlayStation 2"
+            ],
+            "IGN": "8.5/10",
+            "Copies sold": "6 million",
+            "Cost": "$3 million",
+            "Revenue": "$45 million"
+        },
+        {
+            "Id": 11,
+            "Name": "Grand Theft Auto: Chinatown Wars",
+            "Year": 2009,
+            "Producer": "Rockstar Leeds",
+            "Platforms": [
+                "Nintendo DS",
+                "PlayStation Portable",
+                "iOS"
+            ],
+            "IGN": "9.5/10",
+            "Copies sold": "1.2 million",
+            "Cost": "$2 million",
+            "Revenue": "$15 million"
+        },
+        {
+            "Id": 12,
+            "Name": "Grand Theft Auto IV",
+            "Year": 2008,
+            "Producer": "Rockstar North",
+            "Platforms": [
+                "PC",
+                "PlayStation 3",
+                "Xbox 360"
+            ],
+            "IGN": "10.0/10",
+            "Copies sold": "25 million",
+            "Cost": "$100 million",
+            "Revenue": "$625 million"
+        },
+        {
+            "Id": 13,
+            "Name": "Grand Theft Auto: Episodes from Liberty City",
+            "Year": 2009,
+            "Producer": "Rockstar North",
+            "Platforms": [
+                "PC",
+                "PlayStation 3",
+                "Xbox 360"
+            ],
+            "IGN": "9.2/10",
+            "Copies sold": "6 million",
+            "Cost": "$20 million",
+            "Revenue": "$100 million"
+        },
+        {
+            "Id": 14,
+            "Name": "Grand Theft Auto IV: The Lost and Damned",
+            "Year": 2009,
+            "Producer": "Rockstar North",
+            "Platforms": [
+                "PC",
+                "PlayStation 3",
+                "Xbox 360"
+            ],
+            "IGN": "8.5/10",
+            "Copies sold": "3 million (DLC sales)",
+            "Cost": "$5 million",
+            "Revenue": "$50 million"
+        },
+        {
+            "Id": 15,
+            "Name": "Grand Theft Auto IV: The Ballad of Gay Tony",
+            "Year": 2009,
+            "Producer": "Rockstar North",
+            "Platforms": [
+                "PC",
+                "PlayStation 3",
+                "Xbox 360"
+            ],
+            "IGN": "9.0/10",
+            "Copies sold": "4 million (DLC sales)",
+            "Cost": "$5 million",
+            "Revenue": "$55 million"
+        },
+        {
+            "Id": 16,
+            "Name": "Grand Theft Auto V",
+            "Year": 2013,
+            "Producer": "Rockstar North",
+            "Platforms": [
+                "PC",
+                "PlayStation 3",
+                "PlayStation 4",
+                "PlayStation 5",
+                "Xbox 360",
+                "Xbox One",
+                "Xbox Series X/S"
+            ],
+            "IGN": "10.0/10",
+            "Copies sold": "185 million",
+            "Cost": "$265 million",
+            "Revenue": "$8 billion"
+        }
+    ]
+}
